@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/2278/2278923.png" width="50" height="50" /> Hi! I'm Javier Vico
+  <img src="https://cdn-icons-png.flaticon.com/512/2278/2278923.png" width="50" height="50" /> Hi! I'm Javier 
 </h1>
 
 <h3 align="center">
-
+I am a higher degree student in web applications, I like computer science such as programming, I am learning various tools such as Python, HTML, SQL, XML and I really want to learn more like JavaScript and everything I can more and every day He gives his best and gives 100% in everything he does.
 </h3>
 
 <img align="right" alt="Coding" width="250" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
